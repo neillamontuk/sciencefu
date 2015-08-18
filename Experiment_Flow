@@ -1,1 +1,11 @@
-This file will contain the flow of the experiments, with its main steps and their description
+The experiment flow is based on the scientifc method definition from the wikipedia:
+https://en.wikipedia.org/wiki/Scientific_method
+
+The experiment flow will have the following steps, and no step will be available unless the previous one has been completed:
+1.Question 
+2.Hypothesis (Add null hypothes?)
+3.Experiment
+4.Analysis
+5.Report
+
+
