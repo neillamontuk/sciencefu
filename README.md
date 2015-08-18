@@ -13,3 +13,8 @@ Learning_Goals:
 
 Units:
   Description of available measurement units in the application, in support of the experiments to be done. Any unit    required for this pilot should be listed here. Additions will be possible later, but would be good to have the most   useful ones from the start.
+
+For further discussions a slack channel is available:
+https://sciencefu.slack.com
+We encourage that requests, comments, discussions, etc... are done via slack.
+Direct email, which you should have, will also work.
