@@ -2,12 +2,25 @@ The file lists the available categories and units
 
 Temperature
   Kelvin
-  Celsius
-  Farenheit
 
-
-Distance
+Length
+  kilometer
   meter
+  decimeter
   centimer
   milimeter
   
+Mass
+  Kilogram
+  Gram
+  Miligram
+
+Electricity
+  Ampere
+  Volt
+  Watt
+
+Time
+  second
+  minute
+  hour
