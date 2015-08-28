@@ -1,0 +1,6 @@
+Description of the requirements for graphs in the final report for each project
+
+-Bar Graph
+-Line Graph
+-Bubble Graph
+-Scatter plot
