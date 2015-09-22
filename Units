@@ -1,26 +1,55 @@
 The file lists the available categories and units
 
 Temperature
-  Kelvin
+  Kelvin     (K)
+  Centigrade (°C)
 
 Length
-  kilometer
-  meter
+  kilometer (km)
+  meter     (m)
   decimeter
-  centimer
-  milimeter
+  centimer  (cm)
+  milimeter (mm)
   
+Area
+ Meters squared (m2)
+ Centi meters squared (cm2)
+ 
+Volume
+ mili litres (ml)
+ Litres      (l)
+ Meters cubed (m3)
+ centi meter cubed (cm3)
+ 
 Mass
-  Kilogram
-  Gram
-  Miligram
+  Kilogram (kg)
+  Gram     (g)
+  Miligram (mg)
 
 Electricity
-  Ampere
-  Volt
-  Watt
+  Ampere (A)
+  Volt   (V)
+  Watt   (W)
+  Ohm    (Ω)
 
 Time
-  second
-  minute
-  hour
+  second (s)
+  minute (min)
+  hour   (hr)
+  
+Speed/Velocity
+  meters per second (m/s)
+  
+Acceleration 
+ meters per second squared (m/s2)
+ 
+Force
+ Newtons (N)
+
+Gravitational field strength
+ newtons per kilogram (N/kg)
+ 
+Energy
+ Joules (J)
+ 
+
