@@ -3,4 +3,4 @@ Description of the requirements for graphs in the final report for each project
 -Bar Graph
 -Line Graph
 -Bubble Graph
--Scatter plot
+-Scatter plot - (including ability to add trendline and display equation of trendline)
